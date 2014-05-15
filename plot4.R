@@ -1,6 +1,6 @@
 ## Exploratory Data Analtsis on Coursera -- ProgAssignment1
 ## Author: Josie.Tao Date: 10/05/2014 
-## plot4.R -- Time Series of Time Series of Global_Active_Power by Global_active_power, 
+## plot4.R -- Time Series of Global_Active_Power by Global_active_power, 
 ## Voltage, Sub_metering, Global_reactive_power
 ## Note: Use column DateTime for x axis, if you're not working in a english local environment
 ## then weekdays will be in wrong langauge. 
