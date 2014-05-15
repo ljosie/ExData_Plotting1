@@ -1,6 +1,6 @@
 ## Exploratory Data Analtsis on Coursera -- ProgAssignment1
 ## Author: Josie.Tao Date: 10/05/2014 
-## plot3.R -- Time Series of Time Series of Global_Active_Power by Sub_metering
+## plot3.R -- Time Series of Global_Active_Power by Sub_metering
 ## Note: Use column DateTime for x axis, if you're not working in a english local environment
 ## then weekdays will be in wrong langauge. 
 ## Sys.setlocale("LC_TIME", "English") 
